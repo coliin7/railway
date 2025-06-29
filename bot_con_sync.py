@@ -12,7 +12,7 @@ DATOS_COMERCIOS = {}
 
 # EDITAR: Agregar comercios autorizados
 COMERCIOS_AUTORIZADOS = {
-    "+5491123456789": "Carniceria Don Juan",
+    "+5491169990651": "Qaja R",
     "+5491198765432": "Panaderia La Esquina"
 }
 
